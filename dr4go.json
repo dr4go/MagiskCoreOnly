@@ -1,0 +1,15 @@
+{
+  "app": {
+    "version": "7.3.5-coreonly",
+    "versionCode": "735",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/MagiskManager-v7.3.5-coreonly.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "20.0-coreonly",
+    "versionCode": "200",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/Magisk-v20.0-coreonly.zip",
+    "note": "https://forum.xda-developers.com/showpost.php?p=80418753&postcount=3",
+    "md5": ""
+  }
+}
