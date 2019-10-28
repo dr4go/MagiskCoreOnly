@@ -1,10 +1,4 @@
 {
-  "app": {
-    "version": "7.3.5-coreonly",
-    "versionCode": "735",
-    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/MagiskManager-v7.3.5-coreonly.apk",
-    "note": ""
-  },
   "magisk": {
     "version": "20.0-coreonly",
     "versionCode": "200",
