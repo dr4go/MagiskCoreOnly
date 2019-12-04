@@ -1,0 +1,15 @@
+{
+  "app": {
+    "version": "7.4.0-emergency",
+    "versionCode": "740",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/MagiskManager-v7.4.0-emergency.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "20.1-emergency",
+    "versionCode": "201",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.1-emergency.zip",
+    "note": "",
+    "md5": "431ded9b071bb8a01f1b9e15970903ce"
+  }
+}
