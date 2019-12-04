@@ -11,9 +11,5 @@
     "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.1-coreonly.zip",
     "note": "https://forum.xda-developers.com/showpost.php?p=80418753&postcount=3",
     "md5": "a5605223fa4059082e44d4f69fa270b8"
-  },
-  "stub": {
-    "versionCode": "1",
-    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/stub-1-coreonly.apk"
   }
 }
