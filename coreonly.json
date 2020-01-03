@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "7.4.0-coreonly",
-    "versionCode": "740",
-    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/MagiskManager-v7.4.0-coreonly.apk",
+    "version": "7.5.0-coreonly",
+    "versionCode": "750",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/MagiskManager-v7.5.0-coreonly.apk",
     "note": ""
   },
   "magisk": {
-    "version": "20.1-coreonly",
-    "versionCode": "201",
-    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.1-coreonly.zip",
+    "version": "20.2-coreonly",
+    "versionCode": "202",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.2-coreonly.zip",
     "note": "https://forum.xda-developers.com/showpost.php?p=80418753&postcount=3",
-    "md5": "a5605223fa4059082e44d4f69fa270b8"
+    "md5": "19777a7efa38ffb4d3c213e5b6f1f299"
   }
 }
