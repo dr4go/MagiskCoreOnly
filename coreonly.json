@@ -1,9 +1,9 @@
 {
   "magisk": {
-    "version": "20.3-coreonly",
-    "versionCode": "203",
-    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.3-coreonly.zip",
+    "version": "20.4-coreonly",
+    "versionCode": "204",
+    "link": "https://github.com/dr4go/MagiskCoreOnly/raw/master/b/Magisk-v20.4-coreonly.zip",
     "note": "https://forum.xda-developers.com/showpost.php?p=80418753&postcount=3",
-    "md5": "62c79957f8c8ddd329a7770eaf42f15f"
+    "md5": "5d078b97c3e96fbb14fc2a848cfea7d8"
   }
 }
